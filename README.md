@@ -66,7 +66,7 @@ A website like ebay that is to bid on different product added by the user
 
 ## Demonstration Video
 
-A screencast demonstrating the functionality of this project can be found [here](LINK_TO_YOUR_VIDEO).
+A screencast demonstrating the functionality of this project can be found [here](https://youtu.be/k6vpcyikicw?feature=shared)).
 
 ### Timestamps:
 
